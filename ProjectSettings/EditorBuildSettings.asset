@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/MyAwesomeFlashlight/AwesomeFlashlight.unity
-    guid: edef26186617f4492a143e05304f8b52
+    path: Assets/MyAwesomeFlashlight/Example/Example.unity
+    guid: eb06a13f1dbf741af97bef49d463bbb1
   m_configObjects: {}

@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{2E066EBF-6B82-F26E-2006-DB8FD012B9B0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MyAwesomeFlashlight/MyAwesomeFlashlightIOS.cs">
+    <Files>
+      <File FileName="Assets/MyAwesomeFlashlight/MyAwesomeFlashlightIOS.cs" Line="26" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c0c8214a-9141-4ea9-837a-8097718bdbc4" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
